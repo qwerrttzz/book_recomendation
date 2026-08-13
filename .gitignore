@@ -1,0 +1,16 @@
+# Dáta a databázy (Github má limit, nenahrávame tam gigabajty)
+data/
+*.csv
+*.txt
+*.rdb
+redis/dump.rdb
+seed.txt
+
+# Python zbytočnosti
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Prostredie
+.env
+venv/
